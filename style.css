@@ -1,0 +1,19 @@
+main {
+    height: 100vh;
+}
+
+textarea.form-control {
+    min-height: 300px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#url-count {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    color: white;
+    background-color: #00CED1;
+}
